@@ -1,5 +1,7 @@
 # Implementation-for-high-dimensional-vector-search
-an easy C++ source code with KNN and NSG method for ANNS，without any third party or any other dependency.
+## An easy C++ source code without any third party or any other dependency.
+
+with KNN and NSG method for ANNS, for test data, see the right release v1.
 
 modified from https://github.com/ZJULearning/nsg and https://github.com/ZJULearning/efanna_graph.
 
@@ -30,7 +32,7 @@ and in the case of 50000 vector datas and 1600 querys with total processing time
 
 although in my case with total 50s, the recall is over 0.99.
 
-## Future Work
+## Future work
 the product quantization method and other methods are on the way, but maybe I will create a new repository for it.
 
 ## others
