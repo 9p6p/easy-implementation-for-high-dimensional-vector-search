@@ -1,4 +1,4 @@
-# Implementation-for-high-dimensional-vector-search
+# Implementation-for-approximate-nearest-neighbor-search
 ## An easy C++ source code without any third party or any other dependency.
 
 with KNN and NSG method for ANNS, for test data, see the right release v1.
