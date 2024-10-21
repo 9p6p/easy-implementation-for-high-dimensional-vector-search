@@ -36,6 +36,6 @@ although in my case with total 50s, the recall is over 0.99.
 the product quantization method and other methods are on the way, but maybe I will create a new repository for it.
 
 ## others
-if you have any problem or any thing want to ask, welcome to email me at 12332491@mail.sustech.edu.cn.
+if you have any problem or any thing want to ask, welcome to email me at yangyx2023@mail.sustech.edu.cn.
 
 I would love to be contacted for any internship opportunities!
